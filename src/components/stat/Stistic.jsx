@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { Pie, PieChart, Tooltip, Cell } from 'recharts';
-import { getStoredCard } from '../../utilities/localStorage';
 import { useLoaderData } from 'react-router-dom';
+import { getDonationData } from '../../utility/localStorage';
 
 const Statistcs = () => {
     const [donatedData, setDonatedData] = useState([]);
     const donataionData = useLoaderData();
-
+    console.log(donataionData)
     useEffect(() => {
-        const storedDonationCard = getStoredCard();
+        const storedDonationCard = getDonationData();
         if (donataionData) {
             const storedDonateData = [];
             for (const singleDonateId of storedDonationCard) {

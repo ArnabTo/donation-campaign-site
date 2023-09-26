@@ -1,0 +1,151 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/Rcz6pNP/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#0052ff26",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#f8714726",
+    "description": "Health is a state of physical, mental, and social well-being. It encompasses the absence of illness or injury and involves maintaining a balanced lifestyle with proper nutrition, regular exercise, and emotional stability. Achieving good health is a fundamental goal for a fulfilling and productive life, and it requires proactive self-care and access to quality healthcare.",
+    "price": 49.99,
+    "card_text_color": "#0052FF"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/fY24NqS/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_button_bg": "#34495e",
+    "description": "Good education is a holistic, transformative process that equips individuals with knowledge, critical thinking skills, and character development. It fosters curiosity, encourages lifelong learning, and prepares students to be informed, responsible citizens. A quality education enables personal growth, social mobility, and contributes to a more enlightened and progressive society.",
+    "price": 29.99,
+    "card_text_color": "#FF444A"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/Ps2Zv5T/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#d35400",
+    "description": "Clothing serves both functional and expressive purposes. Functionally, it protects the body from environmental elements and provides comfort. Expressively, it reflects personal style and cultural identity. Clothing trends and styles change over time, influencing and reflecting societal norms and individual preferences. The fashion industry plays a significant role in shaping the global clothing landscape, offering a wide range of choices for individuals to convey their uniqueness and creativity through what they wea",
+    "price": 79.99,
+    "card_text_color": "#79C23F"
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/m5nr1Vn/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#c0392b",
+    "description": "Food is essential for sustenance and nutrition, providing the body with energy, essential nutrients, and building blocks for growth and repair. It encompasses a wide variety of flavors, ingredients, and cuisines that vary across cultures. Food can be a source of pleasure, a means of social connection, and a reflection of cultural traditions. Healthy eating choices are crucial for overall well-being, while food production, distribution, and sustainability are important global concerns.",
+    "price": 39.99,
+    "card_text_color": "#F87147"
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/m5nr1Vn/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#f1c40f",
+    "description": "Food is essential for sustenance and nutrition, providing the body with energy, essential nutrients, and building blocks for growth and repair. It encompasses a wide variety of flavors, ingredients, and cuisines that vary across cultures. Food can be a source of pleasure, a means of social connection, and a reflection of cultural traditions. Healthy eating choices are crucial for overall well-being, while food production, distribution, and sustainability are important global concerns.",
+    "price": 69.99,
+    "card_text_color": "#F87147"
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/Ps2Zv5T/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#27ae60",
+    "description": "Clothing serves both functional and expressive purposes. Functionally, it protects the body from environmental elements and provides comfort. Expressively, it reflects personal style and cultural identity. Clothing trends and styles change over time, influencing and reflecting societal norms and individual preferences. The fashion industry plays a significant role in shaping the global clothing landscape, offering a wide range of choices for individuals to convey their uniqueness and creativity through what they wea",
+    "price": 54.99,
+    "card_text_color": "#79C23F"
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/fY24NqS/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_button_bg": "#34495e",
+    "description": "Good education is a holistic, transformative process that equips individuals with knowledge, critical thinking skills, and character development. It fosters curiosity, encourages lifelong learning, and prepares students to be informed, responsible citizens. A quality education enables personal growth, social mobility, and contributes to a more enlightened and progressive society.",
+    "price": 44.99,
+    "card_text_color": "#FF444A"
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/Rcz6pNP/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#0052ff26",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#d35400",
+    "description": "Health is a state of physical, mental, and social well-being. It encompasses the absence of illness or injury and involves maintaining a balanced lifestyle with proper nutrition, regular exercise, and emotional stability. Achieving good health is a fundamental goal for a fulfilling and productive life, and it requires proactive self-care and access to quality healthcare.",
+    "price": 94.99,
+    "card_text_color": "#0052FF"
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/Rcz6pNP/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#0052ff26",
+    "card_bg": "#0052ff26",
+    "text_button_bg": "#c0392b",
+    "description": "Health is a state of physical, mental, and social well-being. It encompasses the absence of illness or injury and involves maintaining a balanced lifestyle with proper nutrition, regular exercise, and emotional stability. Achieving good health is a fundamental goal for a fulfilling and productive life, and it requires proactive self-care and access to quality healthcare.",
+    "price": 34.99,
+    "card_text_color": "#0052FF"
+  },
+  
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/fY24NqS/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_button_bg": "#f1c40f",
+    "description": "Good education is a holistic, transformative process that equips individuals with knowledge, critical thinking skills, and character development. It fosters curiosity, encourages lifelong learning, and prepares students to be informed, responsible citizens. A quality education enables personal growth, social mobility, and contributes to a more enlightened and progressive society.",
+    "price": 74.99,
+    "card_text_color": "#FF444A"
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/Ps2Zv5T/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_button_bg": "#27ae60",
+    "description": "Clothing serves both functional and expressive purposes. Functionally, it protects the body from environmental elements and provides comfort. Expressively, it reflects personal style and cultural identity. Clothing trends and styles change over time, influencing and reflecting societal norms and individual preferences. The fashion industry plays a significant role in shaping the global clothing landscape, offering a wide range of choices for individuals to convey their uniqueness and creativity through what they wea",
+    "price": 59.99,
+    "card_text_color": "#79C23F"
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/m5nr1Vn/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#f8714733",
+    "card_bg": "#f8714726",
+    "text_button_bg": "#34495e",
+    "description": "Food is essential for sustenance and nutrition, providing the body with energy, essential nutrients, and building blocks for growth and repair. It encompasses a wide variety of flavors, ingredients, and cuisines that vary across cultures. Food can be a source of pleasure, a means of social connection, and a reflection of cultural traditions. Healthy eating choices are crucial for overall well-being, while food production, distribution, and sustainability are important global concerns.",
+    "price": 49.99,
+    "card_text_color": "#F87147"
+  }
+]
+
+
+
+
