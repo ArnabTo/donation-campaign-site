@@ -10,6 +10,7 @@ import Home from './components/home/Home';
 import Stat from './components/stat/Stat';
 import DonationPage from './components/donations/DonationPage';
 import DonationLists from './components/donationList/DonationLists';
+import Error from './Error';
 
 
 
@@ -37,6 +38,10 @@ const router = createBrowserRouter([
         element: <Stat></Stat>,
         loader: () => fetch('donationData.json')
       },
+      {
+        path:"/*",
+        element: <Error></Error>
+      }
     ]
   },
 ]);

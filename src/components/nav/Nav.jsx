@@ -22,9 +22,9 @@ const Nav = () => {
         </div>
         <div className="navbar-end hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
-            <li><NavLink to="/" style={linkStyle} className="mx-3 text-lg font-normal hover:text-[#FF444A] hover:underline">Home</NavLink></li>
-            <li tabIndex={0}><NavLink  to="/donationslist" style={linkStyle}  className="mx-3 text-lg font-normal hover:text-[#FF444A] hover:underline">Donation</NavLink></li>
-            <li><NavLink  style={linkStyle} to="/statistic"  className="mx-3 text-lg font-normal hover:text-[#FF444A] hover:underline">Statistic</NavLink></li>
+            <li><NavLink to="/" style={linkStyle} className="mx-2 text-lg font-normal hover:text-[#FF444A] hover:underline">Home</NavLink></li>
+            <li tabIndex={0}><NavLink  to="/donationslist" style={linkStyle}  className="mx-2 text-lg font-normal hover:text-[#FF444A] hover:underline">Donation</NavLink></li>
+            <li><NavLink  style={linkStyle} to="/statistic"  className="mx-2 text-lg font-normal hover:text-[#FF444A] hover:underline">Statistic</NavLink></li>
           </ul>
         </div>
       </div>

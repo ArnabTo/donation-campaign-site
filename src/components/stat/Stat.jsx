@@ -52,7 +52,7 @@ const Stat = () => {
                     </Pie>
                     <Tooltip />
                 </PieChart>
-                <h2 className='relative right-[12rem] bottom-20 text-2xl text-white '>  {percentageOfDonate}%</h2>
+                <h2 className='relative right-[10rem] bottom-[4rem] text-2xl text-white '>  {percentageOfDonate}%</h2>
                 <h2 className='relative right-80 top-12  text-2xl text-white '>  {restTotalDonation}%</h2>
             </div>
             <div className='flex flex-col lg:flex-row justify-center gap-4 items-center'>
