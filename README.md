@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 
 3 Project Features
-- a. Anyone can search by category. 
-- b. Anyone can be aware of how much they have donated.
-- c. Anyone can get their own donation list.
+-  Anyone can search by category. 
+-  Anyone can be aware of how much they have donated.
+-  Anyone can get their own donation list.
